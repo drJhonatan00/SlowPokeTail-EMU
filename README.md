@@ -1,3 +1,6 @@
+<div align="center">
+<img width="150" height="150" alt="1000031125" src="https://github.com/user-attachments/assets/a55c4985-7aa1-4a4f-8551-9bf14b978868" />
+
 # SlowPokeTail
 
 ## Custom UI and Performance Mod for Citra on Android
@@ -5,8 +8,9 @@
 **SlowPokeTail** is an unofficial modification of the **Citra emulator for Android**, developed with a focus on a customized visual identity, resource optimization, and an improved user experience on mobile devices.
 
 The project combines interface redesign, asset replacement and processing, texture-loading fixes, and APK structure adjustments intended to provide a more stable and efficient experience on devices using the **ARM64** architecture.
+</div>
 
-> **Status:** Experimental and educational project.
+**Status:** Experimental project.
 
 ---
 
@@ -48,7 +52,7 @@ The project combines interface redesign, asset replacement and processing, textu
 | Area | Technologies and tools |
 |---|---|
 | Target platform | Android — ARM64 |
-| APK modification | MT Manager, APK Editor |
+| APK modification | Visual Studio, APK Editor |
 | Interface and resources | XML, Android layouts, and resource files |
 | Image processing | 32-bit PNG, downsampling, and metadata removal |
 | Packaging | APK recompilation and ZipAlign |
